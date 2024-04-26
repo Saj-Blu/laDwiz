@@ -1,0 +1,1919 @@
+{
+  "settings": {
+    "project": {
+      "name": "ladwiz pikad",
+      "latestVersion": "2.1.7",
+      "initialVersion": "2.1.7",
+      "id": "g2_W35RZJP3LS",
+      "characterRanges": [
+        {
+          "name": "Basic Latin",
+          "begin": "0x20",
+          "end": "0x7F"
+        },
+        {
+          "name": "Basic Latin",
+          "begin": "0x20",
+          "end": "0x7F"
+        }
+      ]
+    },
+    "app": {
+      "stopPageNavigation": true,
+      "formatSaveFile": true,
+      "saveLivePreviews": true,
+      "autoSave": true,
+      "savePreferences": false,
+      "unlinkComponentInstances": true,
+      "showNonCharPoints": false,
+      "itemChooserPageSize": 256,
+      "previewText": false,
+      "exportLigatures": true,
+      "exportKerning": true,
+      "moveShapesOnSVGDragDrop": false,
+      "guides": {
+        "drawGuidesOnTop": false,
+        "systemShowGuides": true,
+        "systemShowLabels": false,
+        "systemTransparency": "42",
+        "systemGuides": [
+          "baseline",
+          "leftSide",
+          "rightSide",
+          "ascent",
+          "capHeight",
+          "xHeight",
+          "descent"
+        ],
+        "customShowGuides": true,
+        "customShowLabels": false,
+        "customTransparency": "42",
+        "custom": []
+      },
+      "contextCharacters": {
+        "showCharacters": true,
+        "characterTransparency": 53,
+        "showGuides": true,
+        "guidesTransparency": 70
+      },
+      "livePreviews": [
+        {
+          "text": "aa ab ac ad ae af ag ah ai aj ak al am an ao ap aq ar as at au av aw ax ay az \nba bb bc bd be bf bg bh bi bj bk bl bm bn bo bp bq br bs bt bu bv bw bx by bz \nca cb cc cd ce cf cg ch ci cj ck cl cm cn co cp cq cr cs ct cu cv cw cx cy cz \nda db dc dd de df dg dh di dj dk dl dm dn do dp dq dr ds dt du dv dw dx dy dz \nea eb ec ed ee ef eg eh ei ej ek el em en eo ep eq er es et eu ev ew ex ey ez \nfa fb fc fd fe ff fg fh fi fj fk fl fm fn fo fp fq fr fs ft fu fv fw fx fy fz \nga gb gc gd ge gf gg gh gi gj gk gl gm gn go gp gq gr gs gt gu gv gw gx gy gz \nha hb hc hd he hf hg hh hi hj hk hl hm hn ho hp hq hr hs ht hu hv hw hx hy hz \nia ib ic id ie if ig ih ii ij ik il im in io ip iq ir is it iu iv iw ix iy iz \nja jb jc jd je jf jg jh ji jj jk jl jm jn jo jp jq jr js jt ju jv jw jx jy jz \nka kb kc kd ke kf kg kh ki kj kk kl km kn ko kp kq kr ks kt ku kv kw kx ky kz \nla lb lc ld le lf lg lh li lj lk ll lm ln lo lp lq lr ls lt lu lv lw lx ly lz \nma mb mc md me mf mg mh mi mj mk ml mm mn mo mp mq mr ms mt mu mv mw mx my mz \nna nb nc nd ne nf ng nh ni nj nk nl nm nn no np nq nr ns nt nu nv nw nx ny nz \noa ob oc od oe of og oh oi oj ok ol om on oo op oq or os ot ou ov ow ox oy oz \npa pb pc pd pe pf pg ph pi pj pk pl pm pn po pp pq pr ps pt pu pv pw px py pz \nqa qb qc qd qe qf qg qh qi qj qk ql qm qn qo qp qq qr qs qt qu qv qw qx qy qz \nra rb rc rd re rf rg rh ri rj rk rl rm rn ro rp rq rr rs rt ru rv rw rx ry rz \nsa sb sc sd se sf sg sh si sj sk sl sm sn so sp sq sr ss st su sv sw sx sy sz \nta tb tc td te tf tg th ti tj tk tl tm tn to tp tq tr ts tt tu tv tw tx ty tz \nua ub uc ud ue uf ug uh ui uj uk ul um un uo up uq ur us ut uu uv uw ux uy uz \nva vb vc vd ve vf vg vh vi vj vk vl vm vn vo vp vq vr vs vt vu vv vw vx vy vz \nwa wb wc wd we wf wg wh wi wj wk wl wm wn wo wp wq wr ws wt wu wv ww wx wy wz \nxa xb xc xd xe xf xg xh xi xj xk xl xm xn xo xp xq xr xs xt xu xv xw xx xy xz \nya yb yc yd ye yf yg yh yi yj yk yl ym yn yo yp yq yr ys yt yu yv yw yx yy yz \nza zb zc zd ze zf zg zh zi zj zk zl zm zn zo zp zq zr zs zt zu zv zw zx zy zz "
+        }
+      ]
+    },
+    "font": {
+      "family": "ladwiz pikad",
+      "style": "Regular",
+      "version": "\"\"",
+      "description": "\"\"",
+      "panose": "2 0 0 0 0 0 0 0 0 0",
+      "upm": 1000,
+      "ascent": 700,
+      "descent": -300,
+      "capHeight": 675,
+      "xHeight": 400,
+      "overshoot": 10,
+      "lineGap": 250,
+      "weight": 400,
+      "italicAngle": 0,
+      "designer": "\"\"",
+      "designerURL": "\"\"",
+      "manufacturer": "\"\"",
+      "manufacturerURL": "\"\"",
+      "license": "\"\"",
+      "licenseURL": "\"\"",
+      "copyright": "\"\"",
+      "trademark": "\"\"",
+      "variant": "normal",
+      "stretch": "normal",
+      "stemv": "\"\"",
+      "stemh": "\"\"",
+      "slope": "\"\"",
+      "underlinePosition": -50,
+      "underlineThickness": 10,
+      "strikethroughPosition": 300,
+      "strikethroughThickness": 10,
+      "overlinePosition": 750,
+      "overlineThickness": 10
+    }
+  },
+  "glyphs": {
+    "glyph-0x20": {
+      "id": "glyph-0x20",
+      "advanceWidth": 450
+    },
+    "glyph-0x41": {
+      "id": "glyph-0x41"
+    },
+    "glyph-0x65": {
+      "id": "glyph-0x65",
+      "advanceWidth": 375,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 375,"y": 600}},
+              "h1": {"coord": {"x": 325,"y": 600}, "use": false},
+              "h2": {"coord": {"x": 425,"y": 600}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 375,"y": 500}},
+              "h1": {"coord": {"x": 325,"y": 500}, "use": false},
+              "h2": {"coord": {"x": 425,"y": 500}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 200,"y": 510}},
+              "h1": {"coord": {"x": 150,"y": 510}, "use": false},
+              "h2": {"coord": {"x": 250,"y": 400}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 12.035504119198508,"y": -7.061524283505591}},
+              "h1": {"coord": {"x": 162.47482356915523,"y": 108.47191557662288}},
+              "h2": {"coord": {"x": 75,"y": 180}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 520}},
+              "h1": {"coord": {"x": 174.3,"y": 476.433}},
+              "h2": {"coord": {"x": 50,"y": 520}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 590}},
+              "h1": {"coord": {"x": -50,"y": 590}, "use": false},
+              "h2": {"coord": {"x": 50,"y": 590}, "use": false}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x77": {
+      "id": "glyph-0x77",
+      "advanceWidth": 600,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600,"y": 500}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 240,"y": 510}},
+              "h2": {"coord": {"x": 287.6814159292032,"y": 337.6046800668568}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600,"y": 0}},
+              "h1": {"coord": {"x": 422.7079646017683,"y": 124.12677323961813}},
+              "h2": {"coord": {"x": 300,"y": 0}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 520}},
+              "h1": {"coord": {"x": 84.1061946902662,"y": 388.9624137487682}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 590}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x63": {
+      "id": "glyph-0x63",
+      "advanceWidth": 600,
+      "shapes": [
+        {
+          "name": "Shape 0",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": -845.1025056947608,"y": 519.3621867881549}},
+              "h1": {"coord": {"x": -1072.8929384965832,"y": 519.3621867881549}, "use": false},
+              "h2": {"coord": {"x": -617.3120728929385,"y": 519.3621867881549}, "use": false}
+            }
+          ]
+        },
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 100,"y": 600}},
+              "h1": {"coord": {"x": 113.46218487394994,"y": 489.98319327731133}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 300,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 236.97478991596637,"y": 445.00840336134456}},
+              "h2": {"coord": {"x": 354.60504201680635,"y": 446.67226890756274}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 450,"y": 570}},
+              "h1": {"coord": {"x": 387.8319327731096,"y": 518.319327731092}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600,"y": 570}},
+              "h2": {"coord": {"x": 600,"y": -100}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 100,"y": 100}},
+              "h1": {"coord": {"x": 600,"y": 0}},
+              "h2": {"coord": {"x": 500,"y": 100}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 450,"y": 410}},
+              "h1": {"coord": {"x": 450,"y": 100}},
+              "h2": {"coord": {"x": 407.3109243697479,"y": 390.0168067226896}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 211,"y": 390}},
+              "h1": {"coord": {"x": 264.79831932773146,"y": 380}},
+              "h2": {"coord": {"x": 180,"y": 350}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 240}},
+              "h2": {"coord": {"x": 62.168067226890386,"y": 360}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x72": {
+      "id": "glyph-0x72",
+      "advanceWidth": 600,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 590}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 520}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 275.0988617283866,"y": 230}},
+              "h2": {"coord": {"x": 191.95149330733403,"y": 156.43243243243285}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 0}},
+              "h1": {"coord": {"x": 98.8,"y": 68.21621621621563}},
+              "h2": {"coord": {"x": 219.27368421052586,"y": 65.24324324324289}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 560,"y": 280}},
+              "h1": {"coord": {"x": 387.6894736842104,"y": 182.7567567567567}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 450,"y": 425}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 362.7409669915441,"y": 335}},
+              "h2": {"coord": {"x": 336.8988617283864,"y": 351.1081081081081}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 250,"y": 510}},
+              "h1": {"coord": {"x": 283.70526315789476,"y": 423.78378378378375}, "use": false},
+              "h2": {"coord": {"x": 292.5473684210524,"y": 518.4324324324325}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600,"y": 500}},
+              "h1": {"coord": {"x": 544.2210526315795,"y": 512.8648648648656}, "use": false}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x7A": {
+      "id": "glyph-0x7A",
+      "advanceWidth": 240,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 40,"y": 600}},
+              "h1": {"coord": {"x": 132.78674765878046,"y": 434.6250011380624}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 240,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 186.66666666666666,"y": 50}},
+              "h2": {"coord": {"x": 173.18221045184927,"y": 363.6607121271934}, "use": false}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x2C": {
+      "id": "glyph-0x2C",
+      "advanceWidth": 380,
+      "shapes": [
+        {
+          "name": "Shape 0",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 220,"y": 380}},
+              "h1": {"coord": {"x": -7.790432801822313,"y": 380}, "use": false},
+              "h2": {"coord": {"x": 447.7904328018223,"y": 380}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 380,"y": 380}},
+              "h1": {"coord": {"x": 152.2095671981777,"y": 380}, "use": false},
+              "h2": {"coord": {"x": 607.7904328018224,"y": 380}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 300,"y": 220}},
+              "h1": {"coord": {"x": 72.20956719817768,"y": 220}, "use": false},
+              "h2": {"coord": {"x": 527.7904328018224,"y": 220}, "use": false}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x2F": {
+      "id": "glyph-0x2F",
+      "advanceWidth": 1500
+    },
+    "glyph-0x66": {
+      "id": "glyph-0x66",
+      "advanceWidth": 600.0001,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 590}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 550,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 550,"y": 500}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 220,"y": 530}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 260.2422551252854,"y": 464.5759397832185}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 320,"y": 471.7035198456497}},
+              "h2": {"coord": {"x": -41.44210526315781,"y": 98.70039312420693}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600.0001498621274,"y": 150}},
+              "h1": {"coord": {"x": 390,"y": 100}},
+              "h2": {"coord": {"x": 150,"y": -100}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 187.95278144107482,"y": 428.9380394710636}},
+              "h1": {"coord": {"x": -200,"y": 100}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 520}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x6F": {
+      "id": "glyph-0x6F",
+      "advanceWidth": 580,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": -20,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 580,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 580,"y": 540}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 466.72226912174403,"y": 535}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 580,"y": 331.34478251512155}},
+              "h2": {"coord": {"x": 444.72226912174426,"y": 391.1327135496048}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 288.88893578840987,"y": 0}},
+              "h1": {"coord": {"x": 279.33338023285535,"y": 223.93961010132853}},
+              "h2": {"coord": {"x": 200.88893578841035,"y": 115.49995492891514}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 399.0556024550774,"y": 465.6723687220182}},
+              "h1": {"coord": {"x": 100.83338023285486,"y": 355.846506653053}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 351.4444913439653,"y": 530}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 5,"y": 480}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x2A": {
+      "id": "glyph-0x2A"
+    },
+    "glyph-0x2E": {
+      "id": "glyph-0x2E",
+      "advanceWidth": 1500,
+      "shapes": [
+        {
+          "name": "Shape 0",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 200,"y": 200}},
+              "h1": {"coord": {"x": -27.79043280182233,"y": 200}, "use": false},
+              "h2": {"coord": {"x": 427.79043280182236,"y": 200}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 275,"y": 375}},
+              "h1": {"coord": {"x": 47.20956719817768,"y": 375}, "use": false},
+              "h2": {"coord": {"x": 502.79043280182253,"y": 375}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 350,"y": 200}},
+              "h1": {"coord": {"x": 122.20956719817767,"y": 200}, "use": false},
+              "h2": {"coord": {"x": 577.7904328018224,"y": 200}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 175,"y": 200}},
+              "h1": {"coord": {"x": -52.790432801822334,"y": 200}, "use": false},
+              "h2": {"coord": {"x": 402.79043280182236,"y": 200}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 175,"y": 150}},
+              "h1": {"coord": {"x": -52.790432801822334,"y": 150}, "use": false},
+              "h2": {"coord": {"x": 402.79043280182236,"y": 150}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 475,"y": 150}},
+              "h1": {"coord": {"x": 247.20956719817767,"y": 150}, "use": false},
+              "h2": {"coord": {"x": 702.7904328018224,"y": 150}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 300,"y": 475}},
+              "h1": {"coord": {"x": 72.20956719817768,"y": 475}, "use": false},
+              "h2": {"coord": {"x": 527.7904328018224,"y": 475}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 175,"y": 200}},
+              "h1": {"coord": {"x": -52.79043280182233,"y": 200}, "use": false},
+              "h2": {"coord": {"x": 402.79043280182236,"y": 200}, "use": false}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x67": {
+      "id": "glyph-0x67",
+      "advanceWidth": 580,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": -20,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 560,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 560,"y": 540}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 380,"y": 520}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 380,"y": 220}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 580,"y": 275}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 580,"y": 130}},
+              "h2": {"coord": {"x": 420,"y": 115}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": -20,"y": -125}},
+              "h1": {"coord": {"x": 154.25423728813544,"y": 17.850004163522954}},
+              "h2": {"coord": {"x": 35.67796610169515,"y": -18.15583936609967}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 230,"y": 155}},
+              "h1": {"coord": {"x": 146.661016949152,"y": 80}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 230,"y": 500}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 5,"y": 480}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x6A": {
+      "id": "glyph-0x6A",
+      "advanceWidth": 580,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 580,"y": 600}},
+              "h2": {"coord": {"x": 558.3793103448272,"y": 400.1749556089276}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 570,"y": 140}},
+              "h1": {"coord": {"x": 570,"y": 187.16589939778322}},
+              "h2": {"coord": {"x": 570,"y": -60.87385345036819}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 375,"y": 160}},
+              "h2": {"coord": {"x": 380.403,"y": 160}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 450,"y": 160}},
+              "h1": {"coord": {"x": 444.85,"y": 131.445}, "use": false},
+              "h2": {"coord": {"x": 468.683,"y": 263.579}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 450,"y": 500}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 300,"y": 490}},
+              "h2": {"coord": {"x": 292.1896551724137,"y": 385.809239256143}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": -20}},
+              "h1": {"coord": {"x": 165.87931034482722,"y": 78.50383389304125}},
+              "h2": {"coord": {"x": 95.58620689655186,"y": 92.69506419966592}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 135,"y": 490}},
+              "h1": {"coord": {"x": 152.32758620689742,"y": 383.04403629198487}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 5,"y": 480}}
+            }
+          ]
+        },
+        {
+          "name": "Shape 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": -123.00683371298405,"y": -143.50797266514806}},
+              "h1": {"coord": {"x": -350.7972665148064,"y": -143.50797266514806}, "use": false},
+              "h2": {"coord": {"x": 104.78359908883827,"y": -143.50797266514806}, "use": false}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x69": {
+      "id": "glyph-0x69",
+      "advanceWidth": 600,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 600}},
+              "h1": {"coord": {"x": 90,"y": 386.64406779661}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 235.52380952380963,"y": 600}},
+              "h2": {"coord": {"x": 253.9523809523805,"y": 504.81355932203496}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 355.52380952380986,"y": 300}},
+              "h1": {"coord": {"x": 300.1428571428569,"y": 360}},
+              "h2": {"coord": {"x": 401.19047619047615,"y": 360}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 443.0952380952381,"y": 600}},
+              "h1": {"coord": {"x": 452.2857142857142,"y": 481.83050847457616}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600,"y": 600}},
+              "h2": {"coord": {"x": 590.7619047619046,"y": 432.55932203389784}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 374.66666666666697,"y": 265.4237288135596}},
+              "h1": {"coord": {"x": 476.2380952380954,"y": 344.1864406779664}},
+              "h2": {"coord": {"x": 440,"y": 164.13559322033893}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600,"y": 0}},
+              "h1": {"coord": {"x": 476.9047619047615,"y": 160.88135593220386}, "use": false},
+              "h2": {"coord": {"x": 378.4761904761906,"y": 90}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x68": {
+      "id": "glyph-0x68",
+      "advanceWidth": 600.0002,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 350,"y": 230}},
+              "h1": {"coord": {"x": 485.5627118914054,"y": 300.90669082978474}},
+              "h2": {"coord": {"x": 348.47610754326774,"y": 247.94841916515531}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 320,"y": 270}},
+              "h1": {"coord": {"x": 321.5238924567322,"y": 252.05158083484469}, "use": false},
+              "h2": {"coord": {"x": 396.16276445773053,"y": 350.55918369476467}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 425,"y": 525}},
+              "h1": {"coord": {"x": 416.76576795780403,"y": 441.64205339421835}},
+              "h2": {"coord": {"x": 383.5370813659792,"y": 525}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 190,"y": 450}},
+              "h1": {"coord": {"x": 162.11389521640092,"y": 525}},
+              "h2": {"coord": {"x": 221.1254023142073,"y": 366.2878719820883}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600.0002189205228,"y": 0.0002534829992981713}},
+              "h1": {"coord": {"x": 504.7967633483596,"y": 53.74115970424811}},
+              "h2": {"coord": {"x": 389.0340339348457,"y": 31.357811384912537}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 10,"y": 450}},
+              "h1": {"coord": {"x": 84.634,"y": 278.395}},
+              "h2": {"coord": {"x": -24.383,"y": 529.076}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 131.105,"y": 600}},
+              "h1": {"coord": {"x": 10,"y": 600}},
+              "h2": {"coord": {"x": 177.99557257061383,"y": 600}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 425,"y": 600}},
+              "h1": {"coord": {"x": 345.9179502569853,"y": 600.6271733758285}, "use": false},
+              "h2": {"coord": {"x": 700,"y": 597.026}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x6C": {
+      "id": "glyph-0x6C",
+      "advanceWidth": 400,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 600}},
+              "h1": {"coord": {"x": 19.416666666666693,"y": 371.0055547826597}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 150,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 150,"y": 225}},
+              "h2": {"coord": {"x": 250,"y": 210}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 400,"y": -200}},
+              "h1": {"coord": {"x": 400,"y": 225}},
+              "h2": {"coord": {"x": 320,"y": 55}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 100}},
+              "h1": {"coord": {"x": 200,"y": 110}},
+              "h2": {"coord": {"x": -1.9444444444439384,"y": 283.58523774382445}, "use": false}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x61": {
+      "id": "glyph-0x61",
+      "advanceWidth": 500,
+      "contextCharacters": "cab",
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 600}},
+              "h1": {"coord": {"x": 19.416666666666693,"y": 371.0055547826597}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 150,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 150,"y": 300}},
+              "h1": {"coord": {"x": 150,"y": 423.586}, "use": false},
+              "h2": {"coord": {"x": 150,"y": 293.881}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 225,"y": 450}},
+              "h1": {"coord": {"x": 225,"y": 456.023}, "use": false},
+              "h2": {"coord": {"x": 225,"y": 447.24}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 400,"y": 450}},
+              "h1": {"coord": {"x": 438.545,"y": 473.571}, "use": false},
+              "h2": {"coord": {"x": 363.607,"y": 427.744}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 150,"y": 250}},
+              "h1": {"coord": {"x": 150,"y": 252.555}, "use": false},
+              "h2": {"coord": {"x": 150,"y": 166.038}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 150,"y": 225}},
+              "h2": {"coord": {"x": 350,"y": 210}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 500,"y": -200}},
+              "h1": {"coord": {"x": 500,"y": 225}},
+              "h2": {"coord": {"x": 420,"y": 55}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 100}},
+              "h1": {"coord": {"x": 200,"y": 110}},
+              "h2": {"coord": {"x": -1.9444444444439384,"y": 283.58523774382445}, "use": false}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x6B": {
+      "id": "glyph-0x6B",
+      "advanceWidth": 550,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 360,"y": 600}},
+              "h1": {"coord": {"x": 360,"y": 500}},
+              "h2": {"coord": {"x": 360,"y": 550}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 550,"y": 600}},
+              "h2": {"coord": {"x": 550,"y": 500}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 375,"y": 430}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 375,"y": 0}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 225,"y": 50}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 225,"y": 375}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 300}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x21": {
+      "id": "glyph-0x21",
+      "advanceWidth": 1500,
+      "shapes": [
+        {
+          "name": "Shape 0",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 200,"y": 346.15384615384613}},
+              "h1": {"coord": {"x": -27.790432801822334,"y": 346.15384615384613}, "use": false},
+              "h2": {"coord": {"x": 427.79043280182236,"y": 346.15384615384613}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 275,"y": 507.69230769230774}},
+              "h1": {"coord": {"x": 47.20956719817768,"y": 507.69230769230774}, "use": false},
+              "h2": {"coord": {"x": 502.79043280182253,"y": 507.69230769230774}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 350,"y": 346.15384615384613}},
+              "h1": {"coord": {"x": 122.20956719817767,"y": 346.15384615384613}, "use": false},
+              "h2": {"coord": {"x": 577.7904328018224,"y": 346.15384615384613}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 175,"y": 346.15384615384613}},
+              "h1": {"coord": {"x": -52.790432801822334,"y": 346.15384615384613}, "use": false},
+              "h2": {"coord": {"x": 402.79043280182236,"y": 346.15384615384613}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 175,"y": 300}},
+              "h1": {"coord": {"x": -52.790432801822334,"y": 300}, "use": false},
+              "h2": {"coord": {"x": 402.79043280182236,"y": 300}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 475,"y": 300}},
+              "h1": {"coord": {"x": 247.20956719817767,"y": 300}, "use": false},
+              "h2": {"coord": {"x": 702.7904328018224,"y": 300}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 300,"y": 600}},
+              "h1": {"coord": {"x": 72.20956719817768,"y": 600}, "use": false},
+              "h2": {"coord": {"x": 527.7904328018224,"y": 600}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 175,"y": 346.15384615384613}},
+              "h1": {"coord": {"x": -52.790432801822334,"y": 346.15384615384613}, "use": false},
+              "h2": {"coord": {"x": 402.79043280182236,"y": 346.15384615384613}, "use": false}
+            }
+          ]
+        },
+        {
+          "name": "Shape 0 (copy)",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 200,"y": 46.153853215349535}},
+              "h1": {"coord": {"x": -27.790454441913454,"y": 46.153853215349535}, "use": false},
+              "h2": {"coord": {"x": 427.7904111617313,"y": 46.153853215349535}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 275,"y": 207.6923147538111}},
+              "h1": {"coord": {"x": 47.209545558086575,"y": 207.6923147538111}, "use": false},
+              "h2": {"coord": {"x": 502.7904111617315,"y": 207.6923147538111}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 350,"y": 46.153853215349535}},
+              "h1": {"coord": {"x": 122.20954555808655,"y": 46.153853215349535}, "use": false},
+              "h2": {"coord": {"x": 577.7904111617312,"y": 46.153853215349535}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 175,"y": 46.153853215349535}},
+              "h1": {"coord": {"x": -52.790454441913454,"y": 46.153853215349535}, "use": false},
+              "h2": {"coord": {"x": 402.7904111617313,"y": 46.153853215349535}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 175,"y": 0}},
+              "h1": {"coord": {"x": -52.790454441913454,"y": 0}, "use": false},
+              "h2": {"coord": {"x": 402.7904111617313,"y": 0}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 475,"y": 0}},
+              "h1": {"coord": {"x": 247.20954555808652,"y": 0}, "use": false},
+              "h2": {"coord": {"x": 702.7904111617312,"y": 0}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 300,"y": 300}},
+              "h1": {"coord": {"x": 72.20954555808657,"y": 300}, "use": false},
+              "h2": {"coord": {"x": 527.7904111617312,"y": 300}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 175,"y": 46.153853215349535}},
+              "h1": {"coord": {"x": -52.790454441913454,"y": 46.153853215349535}, "use": false},
+              "h2": {"coord": {"x": 402.7904111617313,"y": 46.153853215349535}, "use": false}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x6D": {
+      "id": "glyph-0x6D",
+      "advanceWidth": 600,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 600}},
+              "h1": {"coord": {"x": 4.052547948926486,"y": 270.1071892287674}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 200,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 206.7355139307143,"y": 408.26790351448165}},
+              "h2": {"coord": {"x": 729.6796712911522,"y": 907.2321892287661}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 352.68198618921804,"y": 216.4821892287672}},
+              "h1": {"coord": {"x": 681.0483909569086,"y": 255.69647494305298}},
+              "h2": {"coord": {"x": 561.4701778406732,"y": 465.9643320859101}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 212.84073960038165,"y": 320}},
+              "h1": {"coord": {"x": 381.05023305086064,"y": 546.8214285714281}},
+              "h2": {"coord": {"x": 218.8933340142749,"y": 264.3392857142852}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 376.99762635634045,"y": 0}},
+              "h1": {"coord": {"x": 285.7876601017465,"y": 117.53576065733853}},
+              "h2": {"coord": {"x": 196.63031282229966,"y": 125.7857606573383}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x6E": {
+      "id": "glyph-0x6E",
+      "advanceWidth": 500,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 500,"y": 600}},
+              "h1": {"coord": {"x": -29.251932620888354,"y": 596.4}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 500,"y": 470}},
+              "h2": {"coord": {"x": 333.17126968692327,"y": 470}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 155,"y": 375}},
+              "h1": {"coord": {"x": 145,"y": 465}},
+              "h2": {"coord": {"x": 266.21724877833196,"y": 375}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 400,"y": 320}},
+              "h1": {"coord": {"x": 363.5656795863617,"y": 370}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 325,"y": 200}},
+              "h2": {"coord": {"x": 292.39996895235186,"y": 297.28571428571365}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 160,"y": 320}},
+              "h1": {"coord": {"x": 227.11434963271398,"y": 290}, "use": false},
+              "h2": {"coord": {"x": 154.24570880543664,"y": 222.71428571428532}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 250,"y": 0}},
+              "h1": {"coord": {"x": 200,"y": 97.2857447933626}},
+              "h2": {"coord": {"x": -200,"y": 500}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x70": {
+      "id": "glyph-0x70",
+      "advanceWidth": 586.3218,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 89.6627134325848,"y": 600}},
+              "h1": {"coord": {"x": 111.02699974766566,"y": 493.22033898305085}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 300,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 237.02582218857756,"y": 477.6610169491528}},
+              "h2": {"coord": {"x": 670.4797151428487,"y": 592.2203389830511}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 400,"y": 0}},
+              "h1": {"coord": {"x": 671.1189615050321,"y": 281.5423728813553}},
+              "h2": {"coord": {"x": 493.9243558471416,"y": 300.96610169491555}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 166.54049962149912,"y": 378.6610169491528}},
+              "h1": {"coord": {"x": 392.8561415313872,"y": 479.59322033898275}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 227.1864406779664}},
+              "h2": {"coord": {"x": 61.90596349566806,"y": 351.45762711864336}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x74": {
+      "id": "glyph-0x74",
+      "advanceWidth": 600,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 64.30088947299632,"y": 350}},
+              "h1": {"coord": {"x": 92.86726316124822,"y": 220.70269590780026}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 233.57523764798756,"y": 350}},
+              "h2": {"coord": {"x": 227.15045843557428,"y": 279.5675638661635}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 214.30090001074723,"y": 188.0540639367748}},
+              "h1": {"coord": {"x": 226.1947061560413,"y": 247.351364350297}},
+              "h2": {"coord": {"x": 347.52214830781577,"y": 269.3513655064528}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 450,"y": 600}},
+              "h1": {"coord": {"x": 409.6991438262959,"y": 468.27029487907}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 500,"y": 600}},
+              "h2": {"coord": {"x": 501.22123902384703,"y": 478.4324575752794}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600,"y": 0}},
+              "h1": {"coord": {"x": 462.0531298051352,"y": 188.81082073330163}},
+              "h2": {"coord": {"x": 488.60180423659546,"y": 49.29729988799568}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 364.30091054849794,"y": 282.37839321808383}},
+              "h1": {"coord": {"x": 382.72569060393164,"y": 171.45946847009236}},
+              "h2": {"coord": {"x": 253.80532756476043,"y": 153.94595403619883}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 0}},
+              "h1": {"coord": {"x": 159.71682537966473,"y": 61.24324646173204}},
+              "h2": {"coord": {"x": 42.849560532376636,"y": 114.59460061683376}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x78": {
+      "id": "glyph-0x78",
+      "advanceWidth": 557.4391,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 382.4391,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 557.4391,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 557.4391,"y": 440}},
+              "h2": {"coord": {"x": 343.1008572227942,"y": 390}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 357.4391,"y": 100}},
+              "h1": {"coord": {"x": -42.5609,"y": 50.68330206082783}},
+              "h2": {"coord": {"x": 57.4391,"y": -125}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 207.4391,"y": 330}},
+              "h1": {"coord": {"x": -192.5609,"y": 100}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 57.4391,"y": 500}},
+              "h1": {"coord": {"x": 57.4391,"y": 400}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 257.4391,"y": 600}},
+              "h2": {"coord": {"x": 207.4391,"y": 550}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 250.88661632523565,"y": 348.7322134881433}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 430.3345627393478,"y": 437.4180577010625}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x76": {
+      "id": "glyph-0x76",
+      "advanceWidth": 600,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 440}},
+              "h1": {"coord": {"x": 1.6247787610622026,"y": 336.7142857142858}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 170,"y": 440}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 146.34159292035417,"y": 354.1071428571422}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 385.3646017699116,"y": 373.7678571428569}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 420,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600,"y": 500}},
+              "h2": {"coord": {"x": 534.9557522123894,"y": 401.5892857142853}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600,"y": -50}},
+              "h1": {"coord": {"x": 450.4088495575222,"y": 240.14285714285757}},
+              "h2": {"coord": {"x": 500.81415929203513,"y": 22.107142857143117}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 385.3646017699116,"y": 304.9285714285718}},
+              "h1": {"coord": {"x": 416.2619469026547,"y": 139.33928571428578}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 121.94867256637156,"y": 285.2678571428571}},
+              "h2": {"coord": {"x": 107.31504424778768,"y": 209.839285714286}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 132.8035714285711}},
+              "h1": {"coord": {"x": 39.02123893805344,"y": 183.58928571428555}, "use": false},
+              "h2": {"coord": {"x": -1.6300884955752508,"y": 236.08928571428532}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x71": {
+      "id": "glyph-0x71",
+      "advanceWidth": 500,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 187.16814159292036,"y": 600}},
+              "h1": {"coord": {"x": 212.8672566371677,"y": 406.46782231852666}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 390.8495575221234,"y": 595.3176598049837}},
+              "h2": {"coord": {"x": 372.4778761061952,"y": 448.6088840736728}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 170.65486725663771,"y": 225}},
+              "h1": {"coord": {"x": 271.5398230088501,"y": 343.6192849404114}},
+              "h2": {"coord": {"x": 350,"y": 210}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 500,"y": -200}},
+              "h1": {"coord": {"x": 500,"y": 225}},
+              "h2": {"coord": {"x": 420,"y": 55}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 100}},
+              "h1": {"coord": {"x": 200,"y": 110}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 200}},
+              "h2": {"coord": {"x": 144.95575221238914,"y": 295.20758396533057}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x75": {
+      "id": "glyph-0x75",
+      "advanceWidth": 550.0179,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 550.0179,"y": 600}},
+              "h1": {"coord": {"x": 91.67089264761398,"y": 600}},
+              "h2": {"coord": {"x": 299.5608984879111,"y": 520.625417527537}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 200,"y": 140}},
+              "h1": {"coord": {"x": 200,"y": 350}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 360,"y": 197.70645239543626}},
+              "h2": {"coord": {"x": 374.9724193665221,"y": 203.98558135014105}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 310,"y": 270}},
+              "h1": {"coord": {"x": 295.0275806334779,"y": 263.7208710452955}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 500,"y": 300}},
+              "h2": {"coord": {"x": 526.2781237861402,"y": 160.57113654425825}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 550.0179,"y": -100}},
+              "h1": {"coord": {"x": 550.0179,"y": 100}},
+              "h2": {"coord": {"x": 522.1610517228299,"y": 1.8077574963595708}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 399.3751935445488,"y": 123.8059346977625}},
+              "h1": {"coord": {"x": 448.82491873125883,"y": 44.59230788456989}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0.21253029693545164,"y": 0.6384052016396424}},
+              "h2": {"coord": {"x": -4.9819825445108075,"y": 159.38766544108756}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x73": {
+      "id": "glyph-0x73",
+      "advanceWidth": 550,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 10.354120184652592,"y": 600}},
+              "h1": {"coord": {"x": 284.49571310500625,"y": 405.38838738339336}},
+              "h2": {"coord": {"x": 174.1594299191654,"y": 554.1666666666666}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 284.49571310500625,"y": 392.5223159548226}},
+              "h1": {"coord": {"x": 239.6284564678388,"y": 466.52678024053546}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 512.070934343945,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 250,"y": 141.66666666666666}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 550,"y": 141.66666666666666}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 550,"y": 50}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0.0001378837673937355,"y": 50}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 141.66666666666666}},
+              "h2": {"coord": {"x": 144.79646017699105,"y": 249.4568452380953}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x79": {
+      "id": "glyph-0x79",
+      "advanceWidth": 659.9998,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 390.00877074469975,"y": 149.09814398738456}},
+              "h1": {"coord": {"x": 353.3577693738784,"y": 311.4494993749939}},
+              "h2": {"coord": {"x": 400.0257749507741,"y": 302.54942507287075}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 345.02586867910674,"y": 598.8518987491786}},
+              "h1": {"coord": {"x": 435.74060770420516,"y": 581.1517509797874}},
+              "h2": {"coord": {"x": 240.03455823880876,"y": 619.4020703119471}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0.03369064160025919,"y": 197.3985472225036}},
+              "h1": {"coord": {"x": -3.2990696363083822,"y": 359.3498992706909}},
+              "h2": {"coord": {"x": 3.4179401934657334,"y": 33.097175555215074}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 660,"y": 52.8473404391408}},
+              "h1": {"coord": {"x": 215.03885615449397,"y": 47.49729577438158}},
+              "h2": {"coord": {"x": 323.3535651865259,"y": 149.19814482223973}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 188.17081683539857,"y": 325.8496195941602}},
+              "h1": {"coord": {"x": 190.4644299480043,"y": 231.04882815131847}},
+              "h2": {"coord": {"x": 185.87720372279284,"y": 421.75042022040964}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 265.6387699244276,"y": 488.10097414691325}},
+              "h1": {"coord": {"x": 211.57503227015061,"y": 475.10086561572217}},
+              "h2": {"coord": {"x": 310.9961394369774,"y": 388.3001409613066}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x24": {
+      "id": "glyph-0x24",
+      "advanceWidth": 650,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 177.36123428831607,"y": 275.4550658271322}},
+              "h2": {"coord": {"x": 221.82775012611611,"y": 302.5701202060674}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 288.86442435963994,"y": 900}},
+              "h1": {"coord": {"x": 250.3708279432043,"y": 691.8179736691472}},
+              "h2": {"coord": {"x": 326.0321543834146,"y": 689.1940469376073}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 400.36761443096384,"y": 267.5844304522037}},
+              "h1": {"coord": {"x": 351.2540455644602,"y": 307.81911848883794}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 292.84637064054954,"y": 60.274756725815735}}
+            }
+          ]
+        },
+        {
+          "name": "Path 2",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 145,"y": 257.1837435603893}},
+              "h1": {"coord": {"x": 105.12837195578243,"y": 143.37721808815115}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 260,"y": 33.94390383514599}},
+              "h2": {"coord": {"x": 207.5000379535525,"y": 28.689181453921037}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0.025517494180084452,"y": -100}},
+              "h1": {"coord": {"x": 82.42485347086416,"y": 41.820263308528865}},
+              "h2": {"coord": {"x": -1.9698027492015648,"y": 171.39095592444176}}
+            }
+          ]
+        },
+        {
+          "name": "Path 3",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 320,"y": 34.321694333142545}},
+              "h1": {"coord": {"x": 412.80630038334107,"y": 13.445907269605131}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 424,"y": 233.69776760160278}},
+              "h2": {"coord": {"x": 450.85640188150626,"y": 174.1156267887809}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 650,"y": 74.00686891814536}},
+              "h1": {"coord": {"x": 515.0441896388206,"y": 87.32684602175152}},
+              "h2": {"coord": {"x": 550.0601037138504,"y": -69.63365769891249}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x29": {
+      "id": "glyph-0x29",
+      "advanceWidth": 650,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 177.36268855696665,"y": 374.5449341728678}},
+              "h1": {"coord": {"x": 221.829067575139,"y": 347.4298797939326}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 292.84746957141243,"y": 589.7252432741843}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 400.3683825282484,"y": 382.4155695477963}},
+              "h2": {"coord": {"x": 351.25496477995324,"y": 342.18088151116206}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 288.8655355426075,"y": -250}},
+              "h1": {"coord": {"x": 326.03315120448787,"y": -39.194046937607254}},
+              "h2": {"coord": {"x": 250.37205756764257,"y": -41.81797366914725}}
+            }
+          ]
+        },
+        {
+          "name": "Path 2",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 145.0015538413728,"y": 392.8162564396107}},
+              "h2": {"coord": {"x": 105.13004847871018,"y": 506.62278191184885}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0.027517409511055475,"y": 750}},
+              "h1": {"coord": {"x": -1.967796694442503,"y": 478.60904407555824}},
+              "h2": {"coord": {"x": 82.42659985055691,"y": 608.1797366914711}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 260.001,"y": 616.056096164854}},
+              "h1": {"coord": {"x": 207.5013994877079,"y": 621.310818546079}}
+            }
+          ]
+        },
+        {
+          "name": "Path 3",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 320.00101538149113,"y": 615.6783056668575}},
+              "h2": {"coord": {"x": 412.80703020786353,"y": 636.5540927303949}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 650,"y": 575.9931310818547}},
+              "h1": {"coord": {"x": 550.0604112202773,"y": 719.6336576989124}},
+              "h2": {"coord": {"x": 515.0446048861902,"y": 562.6731539782485}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 424.0006953824757,"y": 416.3022323983972}},
+              "h1": {"coord": {"x": 450.8570146291535,"y": 475.8843732112191}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x26": {
+      "id": "glyph-0x26",
+      "advanceWidth": 400,
+      "shapes": [
+        {
+          "name": "Shape 2",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 380,"y": 510}},
+              "h1": {"coord": {"x": 152.20956719817767,"y": 510}, "use": false},
+              "h2": {"coord": {"x": 607.7904328018224,"y": 510}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": -50,"y": 400}},
+              "h1": {"coord": {"x": 0,"y": 400}},
+              "h2": {"coord": {"x": 177.79043280182233,"y": 400}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 80,"y": 413}},
+              "h1": {"coord": {"x": -147.79043280182233,"y": 413}, "use": false},
+              "h2": {"coord": {"x": 307.7904328018223,"y": 413}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 150}},
+              "h1": {"coord": {"x": 50,"y": 150}},
+              "h2": {"coord": {"x": 100,"y": 150}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 130,"y": 413}},
+              "h1": {"coord": {"x": -97.79043280182232,"y": 413}, "use": false},
+              "h2": {"coord": {"x": 357.79043280182236,"y": 413}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 180,"y": 420}},
+              "h1": {"coord": {"x": -47.79043280182233,"y": 420}, "use": false},
+              "h2": {"coord": {"x": 407.79043280182236,"y": 420}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 180,"y": 200}},
+              "h1": {"coord": {"x": -47.79043280182232,"y": 200}, "use": false},
+              "h2": {"coord": {"x": 407.79043280182236,"y": 200}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 160,"y": 200}},
+              "h1": {"coord": {"x": -67.79043280182232,"y": 200}, "use": false},
+              "h2": {"coord": {"x": 387.79043280182236,"y": 200}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 220,"y": 200}},
+              "h1": {"coord": {"x": 220,"y": 100}},
+              "h2": {"coord": {"x": 220,"y": 427.79043280182236}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 220,"y": 425}},
+              "h1": {"coord": {"x": -7.790432801822327,"y": 425}, "use": false},
+              "h2": {"coord": {"x": 447.79043280182236,"y": 425}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 270,"y": 430}},
+              "h1": {"coord": {"x": 270,"y": 657.7904328018222}, "use": false},
+              "h2": {"coord": {"x": 270,"y": 293}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 400,"y": 200}},
+              "h1": {"coord": {"x": 350,"y": 200}},
+              "h2": {"coord": {"x": 350,"y": 200}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 320,"y": 437}},
+              "h1": {"coord": {"x": 320,"y": 350}},
+              "h2": {"coord": {"x": 320,"y": 664.7904328018224}, "use": false}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 400,"y": 450}},
+              "h1": {"coord": {"x": 172.2095671981777,"y": 450}, "use": false},
+              "h2": {"coord": {"x": 627.7904328018224,"y": 450}, "use": false}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x62": {
+      "id": "glyph-0x62",
+      "advanceWidth": 600,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 100,"y": 600}},
+              "h1": {"coord": {"x": 113.46218487394994,"y": 489.98319327731133}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 300,"y": 600}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 236.97478991596637,"y": 445.00840336134456}},
+              "h2": {"coord": {"x": 354.60504201680635,"y": 446.67226890756274}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 468.9075630252101,"y": 570}},
+              "h1": {"coord": {"x": 406.7394957983197,"y": 518.319327731092}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 600,"y": 465.0252100840337}},
+              "h2": {"coord": {"x": 458.8235294117647,"y": 380.01680672268844}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 357.98319327731093,"y": 0}},
+              "h1": {"coord": {"x": 393.2773109243697,"y": 135.02521008403346}},
+              "h2": {"coord": {"x": 300.85714285714323,"y": 108.35294117647072}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 330,"y": 410}},
+              "h1": {"coord": {"x": 296.3697478991593,"y": 271.69747899159756}},
+              "h2": {"coord": {"x": 287.3109243697479,"y": 390.0168067226896}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 211,"y": 390}},
+              "h1": {"coord": {"x": 264.79831932773146,"y": 380}},
+              "h2": {"coord": {"x": 180,"y": 350}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 0,"y": 240}},
+              "h2": {"coord": {"x": 62.168067226890386,"y": 360}}
+            }
+          ]
+        }
+      ]
+    },
+    "glyph-0x64": {
+      "id": "glyph-0x64",
+      "advanceWidth": 594.5635,
+      "shapes": [
+        {
+          "name": "Path 1",
+          "winding": -1,
+          "pathPoints": [
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 116.93404209486823,"y": 600}},
+              "h1": {"coord": {"x": 930.8370720754086,"y": 155.73588167104236}},
+              "h2": {"coord": {"x": 384.3067,"y": 399.33218976962496}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 317.203,"y": 81.31360860466299}},
+              "h1": {"coord": {"x": 554.3067,"y": 83.42537717156273}},
+              "h2": {"coord": {"x": 94.88384630251667,"y": 79.33351370037789}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 202.2033,"y": 348.0023059601493}},
+              "h1": {"coord": {"x": 136.14867833243284,"y": 220.13350449537447}},
+              "h2": {"coord": {"x": -240.41771069075725,"y": 77.33432360392348}}
+            },
+            {
+              "type": "corner",
+              "p": {"coord": {"x": 314.3067,"y": 40.00349901521417}},
+              "h1": {"coord": {"x": 158.87442385134057,"y": 40.635313550574224}},
+              "h2": {"coord": {"x": 497.71742922027073,"y": 39.257955248284304}}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "ligatures": {},
+  "components": {},
+  "kerning": {
+    "kern-0": {
+      "leftGroup": [
+        "0x61",
+        "0x6C",
+        "0x71"
+      ],
+      "rightGroup": [
+        "0x62",
+        "0x63",
+        "0x6B",
+        "0x70"
+      ],
+      "value": 110
+    }
+  }
+}
